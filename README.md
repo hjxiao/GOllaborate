@@ -74,7 +74,7 @@ N.B.: It is not necessary to run every unique client-application pair on a disti
 
 4: SYSTEM LIMITATIONS
 
-#1 - If you are having compatibility issue running gocui on your terminal, i.e. editor is not showing up or there's some wired character, consider using MobaXterm on Windows, or iTerm on Mac.
+#1 - If you are having compatibility issue running gocui on your terminal, i.e. editor is not showing up or there's some weird character, consider using MobaXterm on Windows, or iTerm on Mac.
 #2 - We want to limit the complexity of editor so we just implemented some basic functions: insert one char, delete one char.
     Here are some functions we didn't implement:
     - warp around
